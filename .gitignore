@@ -402,3 +402,6 @@ PythonClient/docs/_build
 /Unreal/Environments/BlocksComp/
 docker/LinuxBlocks/*
 /cosys-airsim-data-scripts/
+
+# Cesium
+*.sqlite

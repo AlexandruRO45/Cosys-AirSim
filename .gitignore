@@ -405,3 +405,5 @@ docker/LinuxBlocks/*
 
 # Cesium
 *.sqlite
+*.sqlite-shm
+*.sqlite-wal

@@ -1,0 +1,30 @@
+{
+  "SeeDocsAt": "https://cosys-lab.github.io/Cosys-AirSim/settings/",
+  "SettingsVersion": 2.0,
+  "ClockType": "SteppableClock",
+  "SimMode": "Multirotor",
+
+  "OriginGeopoint": 
+  {
+    "Latitude": 44.4268,
+    "Longitude": 26.1025,
+    "Altitude": 170
+  },
+
+  "Vehicles": 
+  {
+    "SimpleFlight": 
+    {
+      "VehicleType": "PX4Multirotor",
+      "UseSerial": false,
+      "Lockstep": true,
+      "UseTcp": true,
+      "QgcHostIp": "",
+      "TcpPort": 4560,
+      "ControlIp": "192.168.137.2",
+      "ControlPort": 14580,
+      "LocalHostIp": "192.168.137.1"
+    }
+  }
+  
+}

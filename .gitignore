@@ -58,8 +58,6 @@ obj/
 *.suo
 *_BuiltData.uasset
 
-settings.json
-
 # Visual Studio 2015 cache/options directory
 .vs/
 .vscode/

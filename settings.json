@@ -25,6 +25,24 @@
       "ControlPort": 14580,
       "LocalHostIp": "192.168.137.1"
     }
-  }
-  
+  },
+
+  "SubWindows": [
+    {
+      "WindowID": 0,
+      "ImageType": 3,
+      "Visible": true
+    },
+    {
+      "WindowID": 1,
+      "ImageType": 5,
+      "Visible": true
+    },
+    {
+      "WindowID": 2,
+      "ImageType": 0,
+      "Visible": true
+    }
+  ]
+
 }
